@@ -1,0 +1,23 @@
+{
+  "sessions": [
+    {
+      "id": "1393199731:1393199731",
+      "data": {
+        "lead": {
+          "name": "Strat",
+          "email": "hhhs",
+          "phone": "/Start",
+          "service": "wwwww"
+        },
+        "step": "budget"
+      }
+    },
+    {
+      "id": "5780449822:5780449822",
+      "data": {
+        "lead": {},
+        "step": "name"
+      }
+    }
+  ]
+}
